@@ -43,10 +43,10 @@ $$\frac{MU_x}{P_x} = \frac{MU_y}{P_y}$$
 
 | Type | Formula | Key Logic |
 | :--- | :--- | :--- |
-| **PED** | $\frac{\%\Delta Q_d}{\%\Delta P}$ | If $>1$, Elastic; if $=1$, Unit Elastic (TR is max). |
-| **PES** | $\frac{\%\Delta Q_s}{\%\Delta P}$ | Measures seller responsiveness to price changes. |
-| **YED** | $\frac{\%\Delta Q_d}{\%\Delta Income}$ | $>0$: **Normal Good**; $<0$: **Inferior Good**. |
-| **XED** | $\frac{\%\Delta Q\_{dA}}{\%\Delta P\_B}$ | $>0$: **Substitutes**; $<0$: **Complements**. |
+| **PED** | %ΔQ<sub>d</sub> / %ΔP | If > 1, Elastic; if = 1, Unit Elastic (TR is max). |
+| **PES** | %ΔQ<sub>s</sub> / %ΔP | Measures seller responsiveness to price changes. |
+| **YED** | %ΔQ<sub>d</sub> / %ΔIncome | > 0: **Normal Good**; < 0: **Inferior Good**. |
+| **XED** | %ΔQ<sub>dA</sub> / %ΔP<sub>B</sub> | > 0: **Substitutes**; < 0: **Complements**. |
 
 ---
 
