@@ -1,6 +1,6 @@
 # AP Microecon Review Notes
 
-> **Note:** This document focuses on high-difficulty concepts and logic-heavy modules. Optimized for quick reference before NEC/KWHS or AP Exams.
+> **Note:** This document focuses on high-difficulty concepts and logic-heavy modules. Optimized for quick reference before exams.
 
 ---
 
