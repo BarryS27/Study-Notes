@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+        <title>Barry's Notes</title>
+        
+        <meta name="description" content="Personal documentation and study notes by Bairu Song" />
+        <meta name="author" content="Bairu Song" />
+        <link rel="canonical" href="https://barrys27.github.io/Study-Notes" />
+
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://barrys27.github.io/Study-Notes" />
+        <meta property="og:title" content="Barry's Notes" />
+        <meta property="og:description" content="Personal documentation and study notes by Bairu Song" />
+        <meta property="og:image" content="https://barrys27.github.io/static/images/og-card.png" />
+
+        <meta property="twitter:card" content="summary_large_image" />
+        <meta property="twitter:url" content="https://barrys27.github.io/knowledge-base" />
+        <meta property="twitter:title" content="Barry's Notes" />
+        <meta property="twitter:description" content="Personal documentation and study notes by Bairu Song" />
+        <meta property="twitter:image" content="https://barrys27.github.io/static/images/og-card.png" />
+
+        <meta name="theme-color" content="#F2F2F7" />
+        <meta name="apple-mobile-web-app-title" content="Barry's Notes" />
+
+        <link rel="icon" type="image/png" href="https://barrys27.github.io/static/images/favicon-96x96.png" sizes="96x96" />
+        <link rel="icon" type="image/svg+xml" href="https://barrys27.github.io/static/images/favicon.svg" />
+        <link rel="shortcut icon" href="https://barrys27.github.io/static/images/favicon.ico" />
+        <link rel="apple-touch-icon" sizes="180x180" href="https://barrys27.github.io/static/images/apple-touch-icon.png" />
+        <link rel="manifest" href="https://barrys27.github.io/static/images/site.webmanifest" />
+
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css" />
+
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Bairu Song",
+            "alternateName": "Barry",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Lexington High School"
+            },
+            "description": "Personal documentation and study notes by Bairu Song",
+            "url": "https://barrys27.github.io",
+            "sameAs": [
+                "https://github.com/BarryS27",
+                "https://medium.com/@BarryS27"
+            ]
+        }
+        </script>
+
+        <style>
+            footer { text-align: center; padding: 2rem 0; color: #666; font-size: 0.9rem; }
+        </style>
+    </head>
+    <body>
+        <div id="app">Loading Bairu's Knowledge Base...</div>
+
+        <script>
+            window.$docsify = {
+                name: 'Bairu Song',
+                repo: 'https://github.com/BarryS27',
+                loadSidebar: true,
+                auto2top: true,
+                subMaxLevel: 3,
+            }
+        </script>
+
+        <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
+
+        <script>
+            (function() {
+                var footerPlugin = function(hook) {
+                    var footerHtml = [
+                        '<hr/>',
+                        '<footer>',
+                        '   <p>© 2026 Bairu Song. Made with ❤️ in Lexington</p>',
+                        '</footer>'
+                    ].join('');
+
+                    hook.afterEach(function(html) {
+                        return html + footerHtml;
+                    });
+                };
+                window.$docsify.plugins = [].concat(window.$docsify.plugins || [], footerPlugin);
+            })();
+        </script>
+    </body>
+</html>
