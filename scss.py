@@ -3,7 +3,7 @@ import os
 
 FILES = ['_core.scss']
 BASE_URL = "https://raw.githubusercontent.com/BarryS27/Common-Elements/main/scss/"
-TARGET_DIR = "static/css/common/scss"
+TARGET_DIR = "assets/css"
 
 def fetch():
     if not os.path.exists(TARGET_DIR):
