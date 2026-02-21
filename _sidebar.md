@@ -3,5 +3,5 @@
   * [📈 AP Microeconomics](ap-microecon/ap-microecon.md)
   * [🤩 Inbound Marketing](inbound-marketing.md)
 * **Project Showroom**
-  * [🌸 Iris Morphological Study](https://raw.githubusercontent.com/BarryS27/Iris-Data-Analysis/main/README.md)
-  * [🎨 @barrys27/ui (NPM Library)](https://raw.githubusercontent.com/BarryS27/barrys-ui/main/README.md)
+  * [🌸 Iris Morphological Study](https://github.com/BarryS27/Iris-Data-Analysis/main/README.md ":target=_blank")
+  * [🎨 @barrys27/ui (NPM Library)](https://github.com/BarryS27/barrys-ui/main/README.md ":target=_blank")
