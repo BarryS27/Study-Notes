@@ -16,6 +16,8 @@
 * **Scarcity**: Occurs when limited resources (`Land`, `Labor`, `Capital`, `Entrepreneurship`) cannot meet unlimited human wants.
 * **Opportunity Cost**: The value of the **next best alternative** foregone.
 
+![Profit Structure](assets/profit-structure.webp)
+
 ---
 
 ## 2. Economic Systems & Models
@@ -56,6 +58,7 @@ $$\frac{MU_x}{P_x} = \frac{MU_y}{P_y}$$
 * **Core Concept**: "How to produce." Focuses on minimizing waste and costs.
 * **Definition**: Production occurs in the least costly way. Firms must use the best available technology and optimal resource mix to survive.
 * **Efficiency State**: $$P = \text{minimum } ATC$$
+![Cost Curves](assets/cost-curves.webp)
 * **Implication**: At this point, resources are used to their absolute limit with zero waste. In the long run, perfectly competitive firms are forced to achieve this.
 
 ### 4.2 Allocative Efficiency (Difficulty Analysis)
@@ -67,7 +70,9 @@ $$\frac{MU_x}{P_x} = \frac{MU_y}{P_y}$$
 * **Efficiency State**: $$P = MC$$
 * **Analysis of Inefficiency**:
     1. **Under-allocation ($P > MC$)**: Society values the next unit more than the cost of resources used ($MB > MC$). Output is too low; increasing production increases social welfare. (Common in Monopolies).
-    2. **Over-allocation ($P < MC$)**: The cost of resources exceeds the value society gets from the product ($MB < MC$). Society is sacrificing more valuable goods for less valuable ones; production should be reduced.
+    2. **Over-allocation ($P < MC$)**: The cost of resources exceeds the value society gets from the product ($MB < MC$).
+![Firm Short-run Supply Curve](assets/short-run-supply.webp)
+Society is sacrificing more valuable goods for less valuable ones; production should be reduced.
 
 > **[INSERT: Efficiency_Comparison_Graph_PC_vs_Monopoly]**
 
@@ -85,12 +90,13 @@ $$\frac{MU_x}{P_x} = \frac{MU_y}{P_y}$$
 | **Fair Return** | $P = ATC$ | Normal Profit (Break-even). Common regulation. |
 | **Socially Optimal** | $P = MC$ | Allocative Efficiency. Firm suffers loss ($P < ATC$). |
 
-> **[INSERT: Natural_Monopoly_Final_Graph]**
+![Natural Monopoly](assets/natural-monopoly.webp)
 
 ### 5.2 Monopolistic Competition
 * **Short Run**: Looks like Monopoly (Profit or Loss).
 * **Long Run**: Entry/Exit shifts $D$ until $P = ATC$ (Tangent point).
 * **Inefficiency**: Always has **Excess Capacity** (doesn't produce at min $ATC$) and is not allocatively efficient ($P > MC$).
+![Economic Loss & Profit](assets/loss-profit.webp)
 
 ---
 
