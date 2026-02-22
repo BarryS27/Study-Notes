@@ -31,7 +31,7 @@
 * **Product Market**: Households are buyers; Firms are sellers.
 * **Factor Market**: Firms are buyers; Households are sellers.
 
-> **[INSERT: Circular_Flow_Model_Diagram]**
+![Circular Flow Diagram](https://cdn.corporatefinanceinstitute.com/assets/circular-flow-model-1024x710.png)
 
 ---
 
@@ -74,8 +74,6 @@ $$\frac{MU_x}{P_x} = \frac{MU_y}{P_y}$$
 ![Firm Short-run Supply Curve](assets/short-run-supply.webp)
 Society is sacrificing more valuable goods for less valuable ones; production should be reduced.
 
-> **[INSERT: Efficiency_Comparison_Graph_PC_vs_Monopoly]**
-
 ---
 
 ## 5. Market Structures
@@ -112,8 +110,7 @@ $$MRP = MFC$$
 * **Feature**: $MFC > \text{Supply (Wage)}$.
 * **Logic**: To hire one more worker, the firm must raise the wage for **all** workers.
 * **Decision**: Find $Q$ where $MRP = MFC$, then go down to the **Supply curve** to find the Wage.
-
-> **[INSERT: Monopsony_Labor_Market_Graph]**
+![Monopsony Labor Market](assets/monopsony.webp)
 
 ### 6.3 Least-Cost Combination
 $$\frac{MP_L}{P_L} = \frac{MP_K}{P_K}$$
